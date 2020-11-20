@@ -2,12 +2,12 @@
 Cardinale - Inventroy
 
 
-RUN SERVER
+# RUN SERVER
  python manage.py runserver
  
-INSTALLED PACKAGES
+# INSTALLED PACKAGES
  Django
  django-import-export
  Pillow
  
-PYTHON VERSION 3.7
+# PYTHON VERSION 3.7
